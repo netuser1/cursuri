@@ -1,0 +1,6 @@
+.header {background-color:black; margin:0px auto; width:900px;  height:100px}
+.content { background-color:red; margin:0px auto; width:900px;  height:400px }
+.left { background-color:blue; margin:0px auto; float:left; width:px; height:400px;}
+.right { background-color:blue; margin:0px auto; height:400px; float:right; width:600px;}
+.footer {background-color:yellow; margin:0px auto; width:900px;  height:100px;}
+.clearfix { clear:both; }
